@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "QOL Smelting Ores 2 to 1",
+      "author": "MrMarvel",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "This QOL mod decrease ore requirements for crafting ingots",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file",
+        "exmodz": "the direct download URL for your EXMODZ mod file"
+      },
+      "imageURL": "A direct download URL to an image that will be displayed in the mod list (optional)",
+      "readmeURL": "A link to the 'raw' version of your mod's README"
+    }
+  ]
+}
